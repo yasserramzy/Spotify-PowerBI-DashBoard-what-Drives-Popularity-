@@ -4,6 +4,8 @@
 ## 📌 Project Overview
 This project analyzes Spotify track data to uncover the key factors that influence song popularity.
 Using Power BI, the analysis explores trends, artist performance, collaboration impact, and relationships between audio features and popularity.
+This project focuses not only on visualization but on identifying relationships between audio features and popularity to simulate real-world analytical thinking.
+
 
 ## 🎯 Objectives
 - Understand how song popularity is distributed  
