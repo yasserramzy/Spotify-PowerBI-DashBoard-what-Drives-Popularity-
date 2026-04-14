@@ -12,6 +12,13 @@ Using Power BI, the analysis explores trends, artist performance, collaboration 
 - Discover which audio features influence popularity  
 - Examine how music trends have evolved over time  
 
+## 📌 Key Skills Demonstrated
+
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis  
+- Data Visualization (Power BI)  
+- Business Insight Generation  
+- Dashboard Design & Storytelling  
 
 ## 🛠 Tools Used
 - Power BI  
