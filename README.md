@@ -1,3 +1,4 @@
+🚀 An interactive Power BI dashboard analyzing 160K+ Spotify tracks to uncover what drives song popularity.
 # 📊 Spotify Tracks Analysis — What Drives Song Popularity?
 
 ## 📌 Project Overview
